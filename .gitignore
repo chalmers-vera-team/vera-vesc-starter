@@ -1,0 +1,33 @@
+# KiCad backup and autosave files
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*-bak
+*.bak
+*_autosave-*
+
+# KiCad lock files
+*.lck
+~*.kicad_pcb
+~*.kicad_pro
+~*.kicad_sch
+
+# KiCad user-specific project local settings (window state, zoom level)
+*.kicad_prl
+
+# KiCad ERC / DRC reports & netlists generated locally
+*.rpt
+*-drc.rpt
+*-erc.rpt
+
+# OS metadata
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*~
