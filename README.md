@@ -13,15 +13,4 @@ Custom VESC 6-based motor controller developed for the **Vera** Shell Eco-marath
 
 ## Quick Start
 
-### Cloning
-```bash
-git clone --recurse-submodules <REPO_URL>
-```
-
-### Pointing Firmware to Your Fork
-Once you create your own fork of `vedderb/bldc`:
-```bash
-git submodule set-url SW https://github.com/<YOUR_USERNAME>/bldc.git
-git submodule sync
-git commit -am "Point SW submodule to personal fork"
-```
+Mjau
